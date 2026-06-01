@@ -35,7 +35,7 @@ const projects = [
     description:
       "An internal ERP system being implemented at Manserv to improve communication between departments, increase coordinator visibility, and provide better transparency for clients.",
     tags: ["Full Stack", "ERP", "Business Tools", "Internal Systems"],
-    url: null,
+    url: "https://refuncapp-demo.vercel.app/dashboard",
     accent: "#00D4FF",
     status: "soon" as const,
   },
